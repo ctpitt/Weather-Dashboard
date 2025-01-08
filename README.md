@@ -1,8 +1,6 @@
 # 30 Days DevOps Challenge - Weather Dashboard
 Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
 
-Weather Data Collection System - DevOps Day 1 Challenge
-
 ## Features
 - Fetch real-time weather data using the OpenWeather API.
 - Store weather data securely in an AWS S3 bucket.
