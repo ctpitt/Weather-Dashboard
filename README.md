@@ -5,7 +5,9 @@ Weather Data Collection System - DevOps Day 1 Challenge
 
 Features
 Fetch real-time weather data using the OpenWeather API.
+
 Store weather data securely in an AWS S3 bucket.
+
 Ensure unique bucket names with random number generation for naming.
 
 Prerequisites
