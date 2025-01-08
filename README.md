@@ -46,6 +46,7 @@ Run the script:
   ```sh
    python app.py
 ```
-![image](https://github.com/user-attachments/assets/47c8985f-b864-4cd2-98dd-897836854623)
+![image](https://github.com/user-attachments/assets/ab91c49d-d892-41a8-8e92-437e3fd8d244)
+
 
 
