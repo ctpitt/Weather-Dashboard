@@ -31,7 +31,8 @@ Before running this project, make sure you have the following:
  - Create a .env file in the root directory:
   ```sh
   OPENWEATHER_API_KEY==<your_openweather_api_key>  
-  AWS_BUCKET_NAME==<unique-bucket-name>
+  AWS_BUCKET_NAME==<unique-bucket-name> (if you are seeing error while creating the bucket, you might need to change the name here. No underscore. You can use camelCase pattern)
+
 ```
 ---
 ## How It Works
