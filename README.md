@@ -1,5 +1,6 @@
 # 30 Days DevOps Challenge - Weather Dashboard
 Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
+
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/e9bd930b-583a-4884-8107-fa36a00e4fe1" />
 
 ## Features
